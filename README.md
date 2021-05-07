@@ -1,7 +1,6 @@
 ![Issues](https://img.shields.io/github/issues/marcusal/food-delivery-app?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/marcusal?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/marcusal?style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr/food-delivery-app?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/marcusal/food-delivery-app/main?style=for-the-badge)
 
 # Food Delivery App
