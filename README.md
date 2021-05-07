@@ -7,7 +7,7 @@
 # Food Delivery App
 In this project, I have created a simple Terminal App. The data is stored via csv, and CRUD actions are implemented using Ruby code.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/8pUgs7JXe4LBK/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/dAzkOoCgoFHtCAdFhe/giphy.gif"/>
 
 ## Built With Ruby
 
@@ -65,6 +65,16 @@ paul
 secret
 Welcome Paul!
 ```
+- As a manager, I can add a new order
+- As a manager, I can list all the undelivered orders
+- As a rider, I can mark one of my orders as delivered
+- As a rider, I list all my undelivered orders
+
+- Additional user actions:
+- As a manager, I can edit an existing order
+- As a manager, I can destroy an existing order
+
+The controller delegates the work to the other components of our app (model, repository and views)
 
 ## Authors
 
@@ -84,17 +94,3 @@ Feel free to check the [issues page](https://github.com/Marcusal/mvc-hackernews-
 
 This project is [MIT](LICENSE) licensed.
 
-
-After signing in, the dashboard that you see is **dependent on your role**.
-
-Let's move to the controller. Here are the **user actions** implmented:
-- As a manager, I can add a new order
-- As a manager, I can list all the undelivered orders
-- As a rider, I can mark one of my orders as delivered
-- As a rider, I list all my undelivered orders
-
-- Additional user actions:
-- As a manager, I can edit an existing order
-- As a manager, I can destroy an existing order
-
-The controller delegates the work to the other components of our app (model, repository and views)
